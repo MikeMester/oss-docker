@@ -3,8 +3,8 @@ This Repo is mainly for experimentation.  Working with Docker.
 
 The components that I plan to use are:
 
-### Kafka - Provides the messagebus for the OSS platform
-### Zookeeper 
+* Kafka - Provides the messagebus for the OSS platform
+*  Zookeeper 
 ### CollectD - collects metrics from host systems
 ### Logstash - collects logs from host systems
 ### InfluxDB - stores timeseries data

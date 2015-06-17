@@ -1,0 +1,6 @@
+[confluent-1.0]
+name=Confluent Repo
+baseurl=http://packages.confluent.io/rpm/1.0
+gpgcheck=0
+enabled=1
+
